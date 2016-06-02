@@ -1,3 +1,5 @@
+#实验室考核作业-客户端
+#使用时输入本机IP
 import socket
 import os
 port = 12345
